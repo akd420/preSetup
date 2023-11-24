@@ -2,7 +2,8 @@
 const App = () => {
   return (
     <div>
-      Vite + React
+      Vite + React 
+      <button className="btn">good</button>
     </div>
   );
 };
